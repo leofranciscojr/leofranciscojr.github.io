@@ -1,0 +1,58 @@
+h1 {
+  color: red;  text-decoration: underline;
+  font-size: 50px;
+  padding: 10px;
+  text-align: center;
+  margin-left: 4em;
+  margin-right: 4em;
+
+}
+h3 {
+  color: blue;  margin-left: 4em;
+  margin-right: 10em;
+  font-style: italic;
+  font-size: 20px;
+
+}
+nav ol {
+  margin-left: 6em;  line-height: 2;
+
+}
+nav img {
+  display: block;  margin: 0;
+  width: 50;
+  border-style: none;
+
+}
+
+img {
+  display: block;  margin: auto;
+  width: 50%;
+  border-spacing: 10px 5px;
+  border-style: dashed;
+  border-color: blue;
+  border-width: thick;
+
+}
+body {
+  margin: 4em;  padding: 5px;
+  border: 5px;
+  border-style: double;
+  border-color: blue;
+  background: url(http://norcalctf.org/wp-content/uploads/JobTrain_LOGO_Color-2wkigvbk9m3tlomdnuatxm.jpg);
+  background-position: 1250px 20px,top;
+  background-repeat: no-repeat;
+  background-size: 250px;
+
+}
+nav ul {
+  margin-left: 6em;  line-height: 2;
+
+}
+div {
+  font-color: blue;  text-align: right;
+
+}
+.li {
+  margin: 10px;
+}.happy-family-living h3 {  text-align: center;}
