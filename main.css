@@ -26,27 +26,29 @@ nav ol {  margin-left: 40px;
   border: none;
 
 }
-.header img {  display: inline-block;
+.extra-strong {  color: red;  font-style: italic;}.header img {  display: inline-block;
   margin-left: 2em;
   margin-bottom: 3200;
   padding-left: 10px;
   padding-bottom: 10px;
   width: 50;
   float: left;
-
+  shape-outside: circle;
 }.header h2 {  color: teal;  font-size: 50px;  margin-left: 4em;  margin-right: 4em;  font-style: italic;  text-align: center;}
 body {  margin: 4em;
   padding: 5px;
   border: 5px;
   border-style: double;
   border-color: blue;
-  background: url(http://norcalctf.org/wp-content/uploads/JobTrain_LOGO_Color-2wkigvbk9m3tlomdnuatxm.jpg);
-  background-position: 1250px 20px,top;
-  background-repeat: no-repeat;
-  background-size: 250px;
+  background-image: url("images/old_moon.png");
+  opacity: ;
 
 }
-nav ul {  margin-left: 6em;
+p {
+  color: ;
+
+}
+nav ul {  margin-left: 65em;
   line-height: 2;
 
 }
@@ -56,4 +58,4 @@ div {  font-color: blue;
 }
 .li {  margin: 10px;
 
-}figure {  display: inline-block;  margin-left: 6em;  padding-top: 10px;}figcaption {  text-decoration-color: blue;  color: solid blue;  font-style: italic;  font-weight: bold;  letter-spacing: 10px;}.footer {  text-align: right;  font-style: italic;  }
+}figure {  display: inline-block;  margin-left: 6em;  padding-top: 10px;}figcaption {  text-decoration-color: blue;  color: solid blue;  font-style: italic;  font-weight: bold;  letter-spacing: 10px;}.footer {  text-align: left;  font-style: italic;  }
